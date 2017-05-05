@@ -1,12 +1,16 @@
-﻿<Properties StartupItem="DevDaysSpeakers/DevDaysSpeakers.Droid/DevDaysSpeakers.Droid.csproj" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DevDaysSpeakers/DevDaysSpeakers/ViewModel/SpeakersViewModel.cs">
+﻿<Properties StartupConfiguration="{367B4F1E-C7D4-432C-B767-59121E12C2BF}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevDaysSpeakers/DevDaysSpeakers.Shared/Services/AzureService.cs">
     <Files>
-      <File FileName="DevDaysSpeakers/DevDaysSpeakers/ViewModel/SpeakersViewModel.cs" Line="50" Column="53" />
+      <File FileName="DevDaysSpeakers/DevDaysSpeakers.Shared/ViewModel/SpeakersViewModel.cs" Line="60" Column="51" />
+      <File FileName="DevDaysSpeakers/DevDaysSpeakers.Shared/Services/AzureService.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.Droid PreferredExecutionTarget="Android.Nexus_6P_API_23" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AED3FEC4-E2E0-4F48-8D76-3A7F4FBC4BB1" />
+  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.756A2CCF-A3CD-440A-B049-D43DDFA46BFF" />
+  <MultiItemStartupConfigurations />
 </Properties>
