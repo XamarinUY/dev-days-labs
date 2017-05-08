@@ -59,7 +59,7 @@ namespace DevDaysSpeakers.ViewModel
 				using (var client = new HttpClient())
 				{
 					//grab json from server
-					var json = await client.GetStringAsync("http://demo4404797.mockable.io/speakers");
+					var json = await client.GetStringAsync("http://demo8208387.mockable.io/speakers2017");
 
 					//Deserialize json
 					var items = JsonConvert.DeserializeObject<List<Speaker>>(json);
